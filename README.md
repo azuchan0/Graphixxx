@@ -1,6 +1,6 @@
 # Graphixxx
 
-A Visual Studio C++ shader playground using OpenGL, GLFW, Dear ImGui, and FFmpeg. Build the `x64` configuration with vcpkg integration enabled.
+A C++ shader playground using OpenGL, GLFW, Dear ImGui, and FFmpeg. Build the `x64` configuration with vcpkg integration enabled.
 
 ## Use
 
